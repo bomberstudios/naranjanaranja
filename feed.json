@@ -1,10 +1,67 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Naranja Naranja",
-	"icon": "https://www.gravatar.com/avatar/98febb9b185879205be0a0d9915e4e3c?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
-	"home_page_url": "https://bomberstudios.micro.blog/",
-	"feed_url": "https://bomberstudios.micro.blog/feed.json",
+	"icon": "https://micro.blog/bomberstudios/avatar.jpg",
+	"home_page_url": "https://naranjanaranja.org/",
+	"feed_url": "https://naranjanaranja.org/feed.json",
 	"items": [
 		
+			{
+				"id": "http://bomberstudios.micro.blog/2025/12/09/the-new-four-seasons/",
+				"title": "The New Four Seasons",
+				"content_html": "<p>Me imagino que a estas alturas todo el mundo ha oído hablar de la serie ReComposed, de Deutsche Gramophonne, en la que artistas invitados de diverso pelaje reinterpretan clásicos de la música clásica (valga la rebuznancia).</p>\n<p>Lo que a lo mejor no sabíais (yo me acabo de enterar, al menos) es que Max Ritcher (que hizo su propia versión de Las Cuatro Estaciones de Vivaldi en esta serie) no debió quedarse 100% satisfecho con el resultado, porque ha hecho una recomposición de la recomposición (vamos que nos vamos) que ha titulado <a href=\"https://www.maxrichter-fourseasons.com/en/\">The New Four Seasons</a>.</p>\n<p>Que lo mismo te faltaba algo de música que ponerte para currar, y esta es una opción bastante decente.</p>\n",
+				"content_text": "Me imagino que a estas alturas todo el mundo ha oído hablar de la serie ReComposed, de Deutsche Gramophonne, en la que artistas invitados de diverso pelaje reinterpretan clásicos de la música clásica (valga la rebuznancia).\n\nLo que a lo mejor no sabíais (yo me acabo de enterar, al menos) es que Max Ritcher (que hizo su propia versión de Las Cuatro Estaciones de Vivaldi en esta serie) no debió quedarse 100% satisfecho con el resultado, porque ha hecho una recomposición de la recomposición (vamos que nos vamos) que ha titulado [The New Four Seasons](https://www.maxrichter-fourseasons.com/en/).\n\nQue lo mismo te faltaba algo de música que ponerte para currar, y esta es una opción bastante decente.\n",
+				"date_published": "2025-12-09T13:56:16+01:00",
+				"url": "https://naranjanaranja.org/2025/12/09/the-new-four-seasons/",
+				"tags": ["Musica"]
+			},
+			{
+				"id": "http://bomberstudios.micro.blog/2025/12/08/fiio-ft1/",
+				
+				"content_html": "<p>Mi última adquisición para escuchar música son estos auriculares Fiio FT1. Los reviews son muy buenos, son súper cómodos incluso con gafas, y el precio es bastante razonable (unos €150)</p>\n<p>P.S: <a href=\"https://amzn.to/3XGFDv2\">Hoy están de oferta en Amazon</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Mi última adquisición para escuchar música son estos auriculares Fiio FT1. Los reviews son muy buenos, son súper cómodos incluso con gafas, y el precio es bastante razonable (unos €150)\n\nP.S: [Hoy están de oferta en Amazon](https://amzn.to/3XGFDv2)\n\n<img src=\"uploads/2025/image.jpg\" width=\"600\" height=\"600\" alt=\"Foto de unos auriculares Fiio FT1 en color negro y madera, descansando en mi mesa de trabajo\">\n",
+				"date_published": "2025-12-08T13:41:56+01:00",
+				"url": "https://naranjanaranja.org/2025/12/08/fiio-ft1/"
+			},
+			{
+				"id": "http://bomberstudios.micro.blog/2025/12/07/un-kit-de-teclas-naranjas/",
+				
+				"content_html": "<p>Un kit de teclas naranjas para añadir a la larga lista de kits de teclas que me gustaría tener pero que definitivamente no voy a adquirir porque €150 pavos por un puñado de plástico me parece una obscenidad.</p>\n<p>Pero mirar es gratis 😅</p>\n<p><a href=\"https://www.captain-sterling.com/orenji\">www.captain-sterling.com/orenji</a></p>\n",
+				"content_text": "Un kit de teclas naranjas para añadir a la larga lista de kits de teclas que me gustaría tener pero que definitivamente no voy a adquirir porque €150 pavos por un puñado de plástico me parece una obscenidad.\n\nPero mirar es gratis 😅\n\n[www.captain-sterling.com/orenji](https://www.captain-sterling.com/orenji)\n",
+				"date_published": "2025-12-07T22:56:29+01:00",
+				"url": "https://naranjanaranja.org/2025/12/07/un-kit-de-teclas-naranjas/"
+			},
+			{
+				"id": "http://bomberstudios.micro.blog/2025/12/07/a-los-que-cacharreais-con/",
+				
+				"content_html": "<p>A los que cacharreais con hardware seguramente os vendrá genial esta guía de pinouts de un montón de chismes habituales, desde un conector jack de 3.5mm a (mi favorito) el ESP32-C3 Super Mini</p>\n<p><a href=\"https://pinouts.org/\">pinouts.org</a></p>\n",
+				"content_text": "A los que cacharreais con hardware seguramente os vendrá genial esta guía de pinouts de un montón de chismes habituales, desde un conector jack de 3.5mm a (mi favorito) el ESP32-C3 Super Mini\n\n[pinouts.org](https://pinouts.org/)\n",
+				"date_published": "2025-12-07T11:30:16+01:00",
+				"url": "https://naranjanaranja.org/2025/12/07/a-los-que-cacharreais-con/"
+			},
+			{
+				"id": "http://bomberstudios.micro.blog/2025/12/06/i-had-a-flashback-to/",
+				
+				"content_html": "<p>I had a flashback to the early 00s when Excel was <em>the</em> tool of choice for my Information Architecture and HCI peeps <a href=\"https://blog.gingerbeardman.com/2025/10/11/how-to-tame-a-user-interface-using-a-spreadsheet/\">blog.gingerbeardman.com/2025/10/1&hellip;</a></p>\n",
+				"content_text": "I had a flashback to the early 00s when Excel was *the* tool of choice for my Information Architecture and HCI peeps [blog.gingerbeardman.com/2025/10/1...](https://blog.gingerbeardman.com/2025/10/11/how-to-tame-a-user-interface-using-a-spreadsheet/)\n",
+				"date_published": "2025-12-06T14:13:07+01:00",
+				"url": "https://naranjanaranja.org/2025/12/06/i-had-a-flashback-to/"
+			},
+			{
+				"id": "http://bomberstudios.micro.blog/2025/12/06/planazo-maanero-escuchar-a-air/",
+				
+				"content_html": "<p>Planazo mañanero: escuchar a Air en formato Tiny Desk <a href=\"https://www.youtube.com/watch?v=jjuorGiEUS4\">www.youtube.com/watch</a></p>\n",
+				"content_text": "Planazo mañanero: escuchar a Air en formato Tiny Desk [www.youtube.com/watch](https://www.youtube.com/watch?v=jjuorGiEUS4)\n",
+				"date_published": "2025-12-06T08:08:41+01:00",
+				"url": "https://naranjanaranja.org/2025/12/06/planazo-maanero-escuchar-a-air/"
+			},
+			{
+				"id": "http://bomberstudios.micro.blog/2025/12/05/this-is-a-kids-watch/",
+				
+				"content_html": "<p>This is a kid’s watch. And I wish it wasn’t, because then I could get one for myself (I have small wrists, but not <em>that</em> small)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This is a kid’s watch. And I wish it wasn’t, because then I could get one for myself (I have small wrists, but not *that* small) \n\n<img src=\"https://bomberstudios.micro.blog/uploads/2025/img-5908.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-12-05T16:10:49+01:00",
+				"url": "https://naranjanaranja.org/2025/12/05/this-is-a-kids-watch/"
+			}
 	]
 }
